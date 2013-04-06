@@ -1,0 +1,19 @@
+Informação sobre as pastas
+
+\C++ -> Sources atualizadas relativas à faculdade em C e C++
+\Java -> Sources de classes Java atualizadas relativas à faculdade
+\Misc -> Sources desatualizadas ou sobre assuntos não-relativos à faculdade
+
+
+
+
+Informação sobre compiladores
+
+C++/C:
+Compilador MingW32 (http://www.mingw.org/) usando a IDE Code-Blocks. Linker configurado com flag -static, -m32. Compilador com as flags -pedantic, -m32.
+
+Java:
+Compilador JDK (http://openjdk.java.net/groups/compiler/) usando as IDEs Eclipse/Gel.
+
+Asm:
+Compilador FASM/NASM (http://flatassembler.net/).
